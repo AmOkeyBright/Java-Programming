@@ -19,7 +19,6 @@ public class Wall {
 	private double height;
 	
 	public Wall() {
-		// TODO Auto-generated constructor stub
 	}
 
 
